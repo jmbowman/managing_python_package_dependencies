@@ -1,0 +1,2 @@
+# managing_python_package_dependencies
+Managing Python Package Dependencies presentation
