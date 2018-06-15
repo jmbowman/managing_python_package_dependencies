@@ -1,0 +1,6 @@
+# Python package dependencies for building the slides
+
+pip-tools                           # Requirements file management
+
+# Sphinx extension for reveal.js presentation output; Sphinx 1.7 support added since last PyPI release
+-e git+https://github.com/tell-k/sphinxjp.themes.revealjs.git@ed1ec902fa4baa51ed550c7bf6c994106f497146#egg=django-wiki
